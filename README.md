@@ -9,7 +9,6 @@ This project predicts the future performance of IPL (Indian Premier League) play
 - **Batsmen_Predictions.csv**: Output file with predicted statistics for all batsmen in the dataset.
 - **Bowlers_Predictions.csv**: Output file with predicted statistics for all bowlers in the dataset.
 - **Research Paper.docx**: Research paper related to the project.
-- **myenv/**: Python virtual environment directory (auto-generated, not project-specific).
 
 ## Main Features
 - Loads and preprocesses IPL match data.
