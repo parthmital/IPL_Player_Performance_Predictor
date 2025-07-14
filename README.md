@@ -36,7 +36,7 @@ This project predicts the future performance of IPL (Indian Premier League) play
 ## Notes
 - The main dataset file is very large and may require significant memory to process.
 - The script is designed to be run as a standalone program and will automatically generate predictions for all players.
-- For more details on the methodology, refer to the included research paper (if available).
+- For more details on the methodology, refer to the included research paper.
 
 ## License
-This project is for educational and research purposes only. Please cite appropriately if using in academic work. 
+This project is for educational and research purposes only. Please cite appropriately if using in academic work.
